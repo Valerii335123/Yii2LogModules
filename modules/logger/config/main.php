@@ -1,0 +1,5 @@
+<?php
+
+return [
+    'defaultLogger' => 'email',
+];
